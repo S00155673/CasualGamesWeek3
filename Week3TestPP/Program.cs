@@ -11,6 +11,7 @@ namespace Week3TestPP
         static void Main(string[] args)
         {
             int poo = 42;
+            string Poo;
         }
     }
 }
