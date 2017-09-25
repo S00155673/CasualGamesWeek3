@@ -12,6 +12,7 @@ namespace Week3TestPP
         {
             int poo = 42;
             string Poo;
+            string tissue;
         }
     }
 }
